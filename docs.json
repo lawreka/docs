@@ -97,5 +97,10 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
+  },
+  "integrations": {
+    "segment": {
+      "key": "8hrb1pgs0qE2sINuvGPQk5rWDTaL2tET"
+    }
   }
 }
